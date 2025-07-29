@@ -1,0 +1,8 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.annotationProcessing.enabled": true,
+    "java.compile.annotationProcessorPaths": [
+        "org.projectlombok:lombok:1.18.32"
+    ]
+}
