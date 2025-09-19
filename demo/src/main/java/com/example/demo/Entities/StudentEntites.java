@@ -26,6 +26,10 @@ public class StudentEntites {
     @Column(name = "created_at",nullable = false,updatable = false)
     private LocalDateTime createdAt;
 
+
+
+
+
     @ManyToMany
     @JoinTable(
              name = "student_course",
